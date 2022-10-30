@@ -1,0 +1,3 @@
+﻿  TestDesktopGameEngine.cpp
+O:\GameProjects\MyGameEnginProj\GameEngineTest\TestDesktopGameEngine\TestDesktopGameEngine\TestDesktopGameEngine.cpp(266,49): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  TestDesktopGameEngine.vcxproj -> O:\GameProjects\MyGameEnginProj\GameEngineTest\TestDesktopGameEngine\x64\Debug\TestDesktopGameEngine.exe
